@@ -3,6 +3,7 @@ include *.rst
 include *.txt
 
 exclude *.sh
+exclude testing/
 exclude .gitignore
 
 global-exclude *.pyc
